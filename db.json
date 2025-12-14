@@ -6,7 +6,7 @@
       "author": "By @CyberNinja",
       "price": 49.99,
       "category": "Recon",
-      "image": "https://i.imgur.com/REPLACE_WITH_YOUR_URL_1.png",
+      "image": "https://yutsmroxcfjstwrpbmto.supabase.co/storage/v1/object/public/product-images/product-1.png",
       "description": "A compact, Raspberry Pi-based tool for covert network reconnaissance and penetration testing. Includes pre-configured scripts for passive and active scanning, credential harvesting, and exploit execution.",
       "specifications": {
         "Platform": "Raspberry Pi 4",
@@ -23,7 +23,7 @@
       "author": "By @ShadowHacker",
       "price": 79.99,
       "category": "Exploits",
-      "image": "https://i.imgur.com/REPLACE_WITH_YOUR_URL_2.png",
+      "image": "https://yutsmroxcfjstwrpbmto.supabase.co/storage/v1/object/public/product-images/product-2.png",
       "description": "Professional-grade exploitation framework with advanced payload generation and delivery mechanisms. Designed for authorized security assessments and penetration testing.",
       "specifications": {
         "Framework": "Metasploit-based",
@@ -40,7 +40,7 @@
       "author": "By @GhostSec",
       "price": 59.99,
       "category": "Post-Exploitation",
-      "image": "https://i.imgur.com/REPLACE_WITH_YOUR_URL_3.png",
+      "image": "https://yutsmroxcfjstwrpbmto.supabase.co/storage/v1/object/public/product-images/product-3.png",
       "description": "Comprehensive post-exploitation toolkit for maintaining access, privilege escalation, and data exfiltration in authorized environments.",
       "specifications": {
         "Languages": "Python, Bash, PowerShell",
@@ -57,7 +57,7 @@
       "author": "By @AnonOps",
       "price": 39.99,
       "category": "Recon",
-      "image": "https://i.imgur.com/REPLACE_WITH_YOUR_URL_4.png",
+      "image": "https://yutsmroxcfjstwrpbmto.supabase.co/storage/v1/object/public/product-images/product-4.png",
       "description": "Advanced network reconnaissance and mapping tool with passive and active scanning capabilities. Includes vulnerability detection and asset inventory.",
       "specifications": {
         "Scan Types": "SYN, UDP, ICMP",
@@ -74,7 +74,7 @@
       "author": "By @NetHunter",
       "price": 69.99,
       "category": "Exploits",
-      "image": "https://i.imgur.com/REPLACE_WITH_YOUR_URL_5.png",
+      "image": "https://yutsmroxcfjstwrpbmto.supabase.co/storage/v1/object/public/product-images/product-5.png",
       "description": "Specialized toolkit for wireless network security testing. Includes encryption cracking, rogue AP deployment, and client isolation attacks.",
       "specifications": {
         "Protocols": "802.11 a/b/g/n/ac/ax",
@@ -91,7 +91,7 @@
       "author": "By @SecureKey",
       "price": 49.99,
       "category": "Exploits",
-      "image": "https://imgur.com/5077f256-29c7-4353-947a-ef50cf0ddd06",
+      "image": "https://yutsmroxcfjstwrpbmto.supabase.co/storage/v1/object/public/product-images/product-6.png",
       "description": "A hardened encryption tool for secure data storage and transfer. Features military-grade encryption and tamper-proof design.",
       "specifications": {
         "Encryption": "AES-256, Twofish",
